@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "tarefa": "Estudar C#",
+      "categoria": "faculdade",
+      "concluido": true
+    },
+    {
+      "id": "2",
+      "tarefa": "Estudar Algoritmos",
+      "categoria": "faculdade",
+      "concluido": false
+    },
+    {
+      "tarefa": "teste",
+      "categoria": "faculdade",
+      "concluido": true,
+      "id": "giC6CEc"
+    },
+    {
+      "tarefa": "testesass",
+      "categoria": "academia",
+      "concluido": false,
+      "id": "T2LcKC0"
+    }
+  ]
+}
